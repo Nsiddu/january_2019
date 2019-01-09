@@ -1,0 +1,3 @@
+{"empno":7369,"ename":SMITH,"job":CLERK,"sal":800.00,"comm":null,"deptno":20}
+{"empno":7499,"ename":ALLEN,"job":SALESMAN,"sal"1600.00,"comm":300.00,"deptno":30}
+{"empno":7521,"ename":WARD,"job":SALESMAN,"sal":1250.00,"comm":500.00,"deptno":30}
