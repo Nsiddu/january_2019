@@ -1,3 +1,0 @@
-hadoop is most power full
-spark is most importent
-spark is inmemory computions and dag structure model along with persist model
